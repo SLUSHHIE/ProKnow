@@ -1,1 +1,1 @@
-# ProKnow
+# proteincalculator
